@@ -1,0 +1,63 @@
+<html>
+ <head>
+ <style>
+ #unit1{
+  background-color:lightgreen;
+  width:100px;
+  height:100px;
+  border-top-left-radius:100px;
+  position:absolute;
+  top:20px;
+  left:220px;
+  margin:10px;}
+#unit2{
+  background-color:green;
+  width:200px;
+  height:100px;
+  border-top-left-radius:100px;
+  border-top-right-radius:100px;
+  position:absolute;
+  top:20px;
+  left:20px;
+  margin:10px;}
+#unit3{
+  background-color:lightgreen;
+  width:100px;
+  height:100px;
+  border-bottom-right-radius:100px;
+  position:absolute;
+  top:120px;
+  left:20px;
+  margin:10px;}
+#unit4{
+  background-color:lightgreen;
+  width:100px;
+  height:100px;
+  border-bottom-left-radius:100px;
+   position:absolute;
+  top:120px;
+  left:120px;
+  margin:10px;}
+#unit5{
+  background-color:white;
+  width:30px;
+  height:30px;
+  border-radius:30px;
+   position:absolute;
+  top:40px;
+  left:260px;
+  margin:10px;}
+ </style>
+    </head>
+    <body>
+        <div id="unit1"></div>
+        <div id="unit2"></div>
+        <div id="unit3"></div>
+        <div id="unit4"></div>
+        <div id="unit5"></div>
+             
+        
+    </body>
+</html>
+     
+     
